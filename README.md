@@ -17,7 +17,7 @@ This project is built on an STM32 microcontroller (tested with STM32F407VG), whe
 | Encoder A        | PA0                |
 | Encoder B        | PA1                |
 
-> **Note:** [For ILI9341 Configuration](https://github.com/SERENGOKYILDIZ/STM32_ILI9341_TFT_LCD/raw/main/docs/ILI9341.PDF)
+> **Note:** [For ILI9341 Configuration](https://github.com/SERENGOKYILDIZ/STM32_ILI9341_TFT_LCD)
 
 ## 🔧 Peripherals Used
 
